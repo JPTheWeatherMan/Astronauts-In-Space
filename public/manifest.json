@@ -1,0 +1,8 @@
+{
+  "short_name": "astronautsinspace",
+  "name": "Astronauts Currently In Space",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
