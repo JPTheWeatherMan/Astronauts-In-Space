@@ -2,8 +2,11 @@ This project will likely not see further development due to the lack of HTTPS su
 
 ## Dependencies Beyond Create-React-App
 Axios
+
 Material UI
+
 FontAwesome
+
 
 ## Available Scripts
 
