@@ -1,6 +1,6 @@
 This project will likely not see further development due to the lack of HTTPS support from Open Notify
 
-##Dependencies Beyond Create-React-App
+## Dependencies Beyond Create-React-App
 Axios
 Material UI
 FontAwesome
